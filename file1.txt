@@ -2,3 +2,4 @@ This is a sample file
 Adding a new line
 This is from master branch
 This is from feature-x branch
+This is git added 
